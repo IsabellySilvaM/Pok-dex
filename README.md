@@ -1,5 +1,5 @@
-*Descrição do Projeto*
-O projeto Pokédex, é uma enciclopédia digital que contém informações sobre diversos Pokémon. A Pokédex permite aos usuários buscar e visualizar detalhes sobre diferentes 
+*Descrição do Projeto -*
+ O projeto Pokédex, é uma enciclopédia digital que contém informações sobre diversos Pokémon. A Pokédex permite aos usuários buscar e visualizar detalhes sobre diferentes 
 espécies de Pokémon, como nome, número, altura e peso. Com uma interface intuitiva, os usuários podem explorar os Pokémon de maneira rápida e fácil, tornando este projeto 
 ideal para fãs e desenvolvedores interessados no universo Pokémon.
 
